@@ -37,44 +37,6 @@
               "icon": "https://i.ibb.co/4VCpjrr/imagebot-8.png"
             }
           ]
-        },
-        {
-          "number": "2.11",
-          "date": "November 8, 2018",
-          "title": "",
-          "innovation": "",
-          "features": [
-            {
-              "name": "Interface Upgrade",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/fNhBzpn/imagebot-4.png"
-            },
-            {
-              "name": "Search/Replace Styles",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/TPPZxP0/imagebot.png"
-            },
-            {
-              "name": "More Shortcuts",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/93wRGHb/imagebot-3.png"
-            },
-            {
-              "name": "Level of numbering",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/cxFv9PW/imagebot-2.png"
-            },
-            {
-              "name": "Hidden Feature",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/4VCpjrr/imagebot-8.png"
-            }
-          ]
         }
       ]
 }
