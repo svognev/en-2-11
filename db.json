@@ -2,30 +2,30 @@
     "features": [
       {
         "title": "Upgraded interface design",
-        "text": "As you can tell, the interface has been redesigned.\n\nWe completely changed the outlook on your user experience. As the “visually simple” web applications are consistently being rated as more experience than their complex counterparts, we wanted to increase your experience by:\n\n\u00A0\u00A0\u00A0\u00A0\u2714 avoiding the “visual complexity”\n\n\u00A0\u00A0\u00A0\u00A0\u2714 being much more “open” with the whitespace\n\n\u00A0\u00A0\u00A0\u00A0\u2714 switching to more contrasting colors\n\n\u00A0\u00A0\u00A0\u00A0\u2714 taking a minimalistic approach to design overall\n\nBasically, simplifying information’s journey from your eye to your brain. Log in and have a look.",
-        "icon": "https://i.ibb.co/KNB8CQQ/icon01.png",
+        "text": "As you can tell, the interface has been redesigned.\n\nWe completely changed the outlook on your user experience. As the “visually simple” web applications are consistently being rated as more experience than their complex counterparts, we wanted to increase your experience by:\n\n{avoiding the “visual complexity”}\n\n{being much more “open” with the whitespace}\n\n{switching to more contrasting colors}\n\n{taking a minimalistic approach to design overall}\n\nBasically, simplifying information’s journey from your eye to your brain. Log in and have a look.",
+        "icon": "https://i.ibb.co/8530wyh/11-1.png",
         "image": "https://i.ibb.co/Jmm2TDV/im01.jpg"
       },
       {
         "title": "Search and Replace styles",
         "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/d2Pnxjt/icon02.png",
+        "icon": "https://i.ibb.co/C1DxpWg/11-2.png",
         "image": "https://i.ibb.co/P41B23G/im02.jpg"
       },
       {
-        "title": "Approve suggested changes in the section individually",
+        "title": "Approve changes individually",
         "text": "If you have already used SMASHDOCs, then you probably got used to the way the changes are being approved. The standard setting is: if the user chooses one decision button (approve/reject), it applies to the whole section.\n\nRecently we added an alternative logic - individual acceptance. In this mode, you should either select one or several words suggested for changes individually. Only then the decision buttons will be displayed.\n\nWe did not change the default setting and you can still make a decision with one click. But you can also proceed to your settings and activate the individual acceptance mode.",
-        "icon": "https://i.ibb.co/MkfNNLG/icon03.png",
+        "icon": "https://i.ibb.co/Qv88Xcq/11-3.png",
         "image": "https://i.ibb.co/1RxssK6/im03.jpg"
       },
       {
         "title": "Choose the level of numbering",
         "text": "Now if you activate the numbering for the image/formula/table section, a “numbering level” drop-down will be displayed as well. There, you can either select the “First Level (1.)” or the “Second Level (1.1)” of enumeration.",
-        "icon": "https://i.ibb.co/JQdk3C4/icon04.png",
+        "icon": "https://i.ibb.co/2y0N9cZ/11-4.png",
         "image": "https://i.ibb.co/J50Rgv1/im04.png"
       },
       {
-        "title": "Use even more Shortcuts",
+        "title": "More Shortcuts",
         "text": "Ideally, a SMASHDOCs user should be able to produce the documents mainly using his/her keyboard, respectively our range of shortcuts. So here is one more to your collection: “Shift + Backspace” both for Mac or Windows users removes the paragraph style, ordered/unordered lists from the text section.\n\nIn addition, a functionality to configure any shortcut you’d like for applying an inline style was developed. It is settable for every system individually.",
         "icon": "https://i.ibb.co/j5kPyJ0/icon05.png",
         "image": "https://i.ibb.co/xKZrVhn/im05.jpg"
